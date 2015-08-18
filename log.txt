@@ -1,0 +1,47 @@
+Reading mod 'Second'...
+
+Reading Mods/Second/Data/Objects/items.xml
+Reading Mods/Second/Data/material.xml
+Reading Mods/Second/Data/Objects/workshops.xml
+Reading Mods/Second/Data/Objects/constructions.xml
+Reading Mods/Second/Data/sprites.xml
+Reading Mods/Second/Data/Objects/plant.xml
+Reading vanilla liquid.xml
+Reading vanilla storage.xml
+Reading vanilla ammo.xml
+Reading Mods/Second/Data/Objects/mechanism.xml
+Reading vanilla trap.xml
+Reading Mods/Second/Data/Objects/blueprint.xml
+Reading vanilla skill.xml
+Reading vanilla race.xml
+Reading vanilla faction.xml
+Reading vanilla bodypart.xml
+Reading vanilla body.xml
+Reading Mods/Second/Data/Objects/itemsettings.xml
+Reading vanilla rightclickmenusettings.xml
+Reading vanilla stockmenusettings.xml
+Reading Mods/Second/Data/Characters/uniformsettings.xml
+Reading Mods/Second/Data/Objects/constructionsettings.xml
+Reading vanilla workshopsettings.xml
+Reading vanilla prospectorsettings.xml
+Reading vanilla designationsettings.xml
+Reading vanilla charactersettings.xml
+Reading vanilla goblinsettings.xml
+Reading vanilla mantsettings.xml
+Reading vanilla golemsettings.xml
+Reading vanilla automatonsettings.xml
+Reading vanilla grasssettings.xml
+Reading vanilla bloodsettings.xml
+Reading vanilla terrainsettings.xml
+Reading Mods/Second/Data/jobsettings.xml
+Reading vanilla newgamesettings.xml
+Reading Mods/Second/Data/Objects/plantsettings.xml
+Reading vanilla liquidsettings.xml
+Reading Mods/Second/Data/Objects/mechanismsettings.xml
+Reading vanilla language.xml
+Reading vanilla name.xml
+Reading vanilla word.xml
+Reading vanilla namerules.xml
+Reading Mods/Second/Data/UI/professionmenusettings.xml
+
+...finished reading mod
